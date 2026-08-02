@@ -16,6 +16,7 @@ p, h1, h2, h3, h4, h5, h6, a, button, span {
     text-transform: capitalize;
     text-decoration: none;
     background: transparent;
+    color:white;
 }
 h1{
     font: size 72px;
@@ -66,7 +67,7 @@ nav {
     background-color: transparent;
     border-radius: 20px;
     padding: 0.5rem 1.5rem;
-    color: #906;
+    color: whitesmoke;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     transition: all 0.3s ease;
 }
@@ -162,14 +163,14 @@ nav {
 }
 
 #about p {
-    color: blueviolet;
+    color: whitesmoke;
     font-weight: 600;
     font-size: 1.25rem;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     line-height: 1.6;
 }
 #about h1 {
-    color: blueviolet;
+    color: white;
     font-weight: 900;
     margin-bottom: 1rem;
     font-size: 42px;
@@ -189,20 +190,20 @@ nav {
 }
 #project h1 {
     text-align: center;
-    color: blueviolet;
+    color: whitesmoke;
     font-weight: 900;
     margin-bottom: 1.5rem;
     font-size: 2.5rem;
 }
 .section-subtitle{
-    color:#9CA3AF;
+    color:whitesmoke;
     text-align:center;
     margin-bottom:40px;
     font-size:1rem;
 }
 #project p {
     text-align: center;
-    color: blueviolet;
+    color: whitesmoke;
     font-weight: 600;
     margin-bottom: 2rem;
     font-size: 18px;
@@ -214,7 +215,7 @@ nav {
 
 #project h3 {
     text-align: center;
-    color: blueviolet;
+    color: whitesmoke;
     font-weight: 600;
     margin-bottom: 1rem;
     font-size: 24px;
@@ -238,7 +239,7 @@ nav {
     border: 2px solid rgb(229, 206, 75);
 }
 .project-description{
-color:#B8C1CC;
+color:white;
 line-height:auto;
 margin-bottom:20px;
 font-size:.95rem;
@@ -315,14 +316,14 @@ font-size:.95rem;
 }
 
 #skills h1 {
-    color: blueviolet;
+    color: white;
     font-weight: 900;
     margin-bottom: 0.5rem;
     font-size: 2.5rem;
 }
 
 #skills p {
-    color: blueviolet;
+    color: white;
     font-weight: 600;
     margin-bottom: 1.5rem;
 }
