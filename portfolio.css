@@ -498,4 +498,8 @@ footer {
     .skills {
         border-radius: 20px; /* Simplifies complex border-radius on small screens */
     }
+    } 
+.style-banner{
+    margin-block-start: 3.9cm;
+}
 }
